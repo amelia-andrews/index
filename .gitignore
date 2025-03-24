@@ -3,6 +3,7 @@
 .RData
 .Ruserdata
 
+<<<<<<< HEAD
 *.Rproj
 *.png
 
@@ -13,3 +14,7 @@ results/data/market_position/gps/*.dat
 **/*.csv
 
 
+=======
+*.png
+/.quarto/
+>>>>>>> 6a4e3108259189660669be1b36f3b6cd01dd7941
