@@ -2,6 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
-*.Rproj
 
+*.Rproj
 *.png
+
+graphs/
+analysis/plots/
+results/data/market_position/gps/*.dat
+
+**/*.csv
+
+
