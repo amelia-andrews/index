@@ -2,10 +2,16 @@
 title: "index"
 ---
 
-## Quarto
+## About
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+```         
+This web page will provide metadata information about the data files used for the course Introduction to R, databases and reproducibility for AMR epidemiologists.
 
-```{r}
-1 + 1
+Data files: 
+- gapminder_data.csv
+- gapminder_wide.csv
+- hgt_wgt.csv
+- icd10_data.csv 
+- dig_health_hub_amr.csv
+
 ```
